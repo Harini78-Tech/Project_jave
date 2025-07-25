@@ -47,9 +47,9 @@ A fun arcade-style game where the dinosaur jumps over cacti.
 
 ## 📈 GitHub Status
 
-![Harini's GitHub Status](https://github-readme-status.vercel.app/api?username=Harini78-Tech&show_icons=true&theme=radical)
+![Harini's GitHub Status](https://github-readme-stats.vercel.app/api?username=Harini78-Tech&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-status.vercel.app/api/top-langs/?username=Harini78-Tech&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini78-Tech&layout=compact&theme=tokyonight)
 
 ---
 
