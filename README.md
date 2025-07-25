@@ -30,7 +30,7 @@ A fun arcade-style game where the dinosaur jumps over cacti.
 - Java AWT and Swing-based UI  
 - Custom game loop  
 - OOP-based structure  
-🔗 [View Project](https://github.com/Harini78-Tech/Project_java/Dino_Game.Java)
+🔗 [View Project](https://github.com/Harini78-Tech/Project_jave/Dino_Game.Java)
 
 ---
 
